@@ -1,7 +1,7 @@
 PROFESOR: DIEGO ALEJANDRO ROZO - VISUALIZACIÓN Y PRESENTACIÓN DE DATOS
 ESTUDIANTE: FABIAN CABALLERO CORTÉS
 ACTIVIDAD: GOOGLE CHARTS
-VER PROYECTO EN: https://fabiancaballero.github.io/ProyectoFinal/
+VER PROYECTO EN: https://faroca20.github.io/google_charts/
 
 *********************************************
 DATOS GENERADOS DE ACUERDO AL TIPO DE GRÁFICO
