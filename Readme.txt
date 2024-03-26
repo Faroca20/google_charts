@@ -2,6 +2,7 @@ PROFESOR: DIEGO ALEJANDRO ROZO - VISUALIZACIÓN Y PRESENTACIÓN DE DATOS
 ESTUDIANTE: FABIAN CABALLERO CORTÉS
 ACTIVIDAD: GOOGLE CHARTS
 VER PROYECTO EN: https://faroca20.github.io/google_charts/
+VER VIDEO: https://www.canva.com/design/DAF_KAs_Wf8/wsFg6o2bYEHIf9A8hKhQ3g/view?utm_content=DAF_KAs_Wf8&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
 
 *********************************************
 DATOS GENERADOS DE ACUERDO AL TIPO DE GRÁFICO
